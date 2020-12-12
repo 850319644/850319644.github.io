@@ -1,13 +1,13 @@
 # Site settings
 title: 岚
-SEOTitle: lan的博客 | No-Error's Blog
+SEOTitle: lan的博客 | Lan's Blog
 header-img: img/post-bg-desk.jpg
 email: 850319644@qq.com
 description: " May I get some error?"
 keyword: "No-Error, 岚's Blog, ；岚的博客, No-Error, No-Error, java, Apple, iPhone"
 url: "http://850319644.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/linpupu/linpupu.github.io.git" # you code repository
+github_repo: "https://github.com/850319644/850319644.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: linpupu.github.io    #仓库名称
-  owner: linpupu    #github用户名
-  admin: linpupu
+  repo: 850319644.github.io    #仓库名称
+  owner: 850319644    #github用户名
+  admin: 850319644
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: linpupu.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 850319644.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "CSDN·Dayone",
+        href: "https://blog.csdn.net/daoyone"
     },{
         title: "Apple",
         href: "https://apple.com"
