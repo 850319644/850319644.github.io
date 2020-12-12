@@ -1,11 +1,11 @@
 # Site settings
-title: No-Error
-SEOTitle: No-Error的博客 | No-Error's Blog
+title: 岚
+SEOTitle: lan的博客 | No-Error's Blog
 header-img: img/post-bg-desk.jpg
-email: 949664458@gmail.com
+email: 850319644@qq.com
 description: " May I get some error?"
-keyword: "No-Error, No-Error's Blog, ；No-Error的博客, No-Error, No-Error, iOS, Apple, iPhone"
-url: "http://linpupu.github.io"          # your host, for absolute URL
+keyword: "No-Error, 岚's Blog, ；岚的博客, No-Error, No-Error, java, Apple, iPhone"
+url: "http://850319644.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linpupu/linpupu.github.io.git" # you code repository
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-Lyn-gentle.jpg      # use absolute URL, seeing it's u
 RSS: false
 # weibo_username:     linpupu
 #zhihu_username:     linpupu
-github_username:    linpupu
+github_username:    850319644
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   linpupu
